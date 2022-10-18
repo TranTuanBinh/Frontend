@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    border: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: orange;
+}
+
+div{
+    margin: 20px 20px 20px 20px;
+}
+
+h1{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.paragraph{
+    border: 1px solid black;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+.img{
+    padding-left: 300px;
+    
+}
