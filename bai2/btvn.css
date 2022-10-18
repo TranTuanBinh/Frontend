@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.baiviet{
+    display: flex;
+}
+.content{
+    border: 1px solid black;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.baiviet2{
+    display: flex;
+}

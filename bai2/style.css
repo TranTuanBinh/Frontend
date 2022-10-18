@@ -1,0 +1,53 @@
+.block{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    position: relative;
+}
+.child{
+    width: 100px;
+    height: 100px;
+
+}
+/* .child1{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    background-color: white;
+    border: 1px solid black;
+}
+.header{
+    height: 100px;
+    margin-bottom: 8px;
+}
+.nav{
+    height: 100px;
+    margin-bottom: 8px;
+}
+.content{
+    display: flex;
+}
+
+.content div{
+    height:100px;
+}
+.content .contentleft, .contentright{
+    width: 20%;
+}
+.content .contentcenter{
+    width:60%
+}
+.footer{
+    height: 100px;
+}
