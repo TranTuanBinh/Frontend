@@ -21,11 +21,20 @@ h1{
 }
 
 .paragraph{
-    border: 1px solid black;
+    
     margin-right: 70px;
     margin-left: 70px;
 }
 .img{
     padding-left: 300px;
+}
+.href{
+    padding-left: 20px;
+}
+
+.searchbox{
+    
+    margin-left: 1310px;
+   
     
 }
