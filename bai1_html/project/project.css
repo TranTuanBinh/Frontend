@@ -32,9 +32,9 @@ h1{
     padding-left: 20px;
 }
 
-.searchbox{
-    
-    margin-left: 1310px;
-   
-    
+.head-search-team{
+    display: flex;
+    margin-left: 1200px;
+    margin-bottom: 0px;
+    width: 300px;
 }
